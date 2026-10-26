@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MP08_PR16ExerciciDePersistencia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MP08_PR16ExerciciDePersistencia" parent="Base.Theme.MP08_PR16ExerciciDePersistencia" />
+</resources>
